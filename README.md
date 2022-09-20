@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tejas Vilas Medade</h1>
+<h1 align="center">Heya 👋, I'm Tejas Vilas Medade</h1>
 <h3 align="center">ARCHITECT & DESIGNER BY PASSION, WHO TURNED UP AS A BACKEND DEVELOPER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmedade&label=Profile%20views&color=0e75b6&style=flat" alt="tejasmedade" /> </p>
