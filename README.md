@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmedade&label=Profile%20views&color=0e75b6&style=flat" alt="tejasmedade" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tejasmedade" target="blank"><img src="https://img.shields.io/twitter/follow/tejasmedade?logo=twitter&style=for-the-badge" alt="tejasmedade" /></a> </p>
-
 - 🔭 I’m currently working on **Something Cool !**
 
 - 🌱 I’m currently learning **Java | SQL**
