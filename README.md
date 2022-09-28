@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Something Cool !**
 
-- 🌱 I’m currently learning **Java | SQL**
+- 🌱 I’m currently learning **Java | SQL | JDBC  **
 
 - 📫 How to reach me **tejasmedade@gmail.com**
 
