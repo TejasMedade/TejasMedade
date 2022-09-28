@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&" alt="tejasmedade" /></p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TejasMedade?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" /></p>
 
 
