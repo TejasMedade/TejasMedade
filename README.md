@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&" alt="tejasmedade" /></p>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="TejasMedade's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TejasMedade?cardType=github&theme=github-dark" />  </a>
-
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" /></p>
 
 
