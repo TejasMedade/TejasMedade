@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java | HTML | CSS | JavaScript | SQL**
 
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA, and Frontend Projects : HTML, CSS & JavaScript**
+- 👯 I’m looking to collaborate on **Backend Projects : JAVA,SQL,JDBC & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
 - 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
