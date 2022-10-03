@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasmedade&repo=convoychat" />
 
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmedade&layout=compact)](https://github.com/tejasmedade/github-readme-stats)
 
 
 
