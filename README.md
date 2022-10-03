@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" />
 </a>
 
 
