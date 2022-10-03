@@ -34,6 +34,32 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
+
+<br/>
+
+
+<h3 align="center">My Tech Stack</h3>
+<br/>
+
+
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,linux,spring,hibernate,mysql,aws,js,html,bootstrap,tailwindcss&perline=10" />
+  </a>
+</p>
+
+<br/>
+<h3 align="center">Tools & Softwares</h3>
+
+<br/>
+
+
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=7" />
+  </a>
+</p>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/tejasmedade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasmedade" height="30" width="40" /></a>
@@ -43,30 +69,17 @@ Here are some ideas to get you started:
 <br/>
 
 
-<h3 align="center">Languages and Tools</h3>
-<br/>
+<p align="center">
 
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
 
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,linux,spring,hibernate,mysql,aws,js,html,css,git,github,netlify,bootstrap,tailwind,photoshop,premiere,aftereffects,skecthup&perline=17" />
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-<br/>
-<br/>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasmedade&repo=convoychat" />
-
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" />
-</a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmedade&)](https://github.com/tejasmedade/github-readme-stats)
-
+<p align="right">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tejasmedade&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
 
 
 
