@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&)">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en)">
+<a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
