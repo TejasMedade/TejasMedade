@@ -54,8 +54,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 
 </a>
-<a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" />
+<a href="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&locale=en" alt="tejasmedade" />
 </a>
 
 
