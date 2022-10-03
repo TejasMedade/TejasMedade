@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmedade&layout=compact)](https://github.com/tejasmedade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmedade&)](https://github.com/tejasmedade/github-readme-stats)
 
 
 
