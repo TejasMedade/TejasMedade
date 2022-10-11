@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Something Cool !**
 
-- 🌱 I’m currently learning **Java | SQL | JDBC**
+- 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate**
 
 - 📫 How to reach me **tejasmedade@gmail.com**
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,linux,spring,hibernate,mysql,aws,js,html,bootstrap,tailwindcss&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,linux,spring,hibernate,maven,mysql,aws,js,html,bootstrap,tailwindcss&perline=11" />
   </a>
 </p>
 
