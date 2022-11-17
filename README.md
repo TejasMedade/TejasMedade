@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=7" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=8" />
   </a>
 </p>
 
