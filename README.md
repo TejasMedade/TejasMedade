@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Something Cool !**
 
-- 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate**
+- 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate | SpringBoot**
 
 - 📫 How to reach me **tejasmedade@gmail.com**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java | HTML | CSS | JavaScript | SQL**
 
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC  HIBERNATE, MAVEN & CLI and Frontend Projects : HTML, CSS & JavaScript**
+- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC  HIBERNATE, MAVEN, SPRINGBOOT & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
 - 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=7" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=7" />
   </a>
 </p>
 
