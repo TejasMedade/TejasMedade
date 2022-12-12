@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Know more about me at [https://tejasmedade.github.io/](https://tejasmedade.github.io/)
 
-- 💬 Ask me anything about **Java Backend Development **
+- 💬 Ask me anything about **Java Backend Development**
 
 - 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC  HIBERNATE, MAVEN, SPRINGBOOT & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
